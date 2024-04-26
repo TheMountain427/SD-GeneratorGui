@@ -1,0 +1,2 @@
+--prompt "[Toyota: (Ford:.1)], Honda, (Chevrolet), Elm, Poplar, [(Orange:.3): (Mango:.4):0.6], (5120x2880 (5K):0.1), Turquoise, Birch, <Cherry>, Cedar, (Cyan23), Orange, Apple, Banana, Yellow, [Fir], [Lavender:Coral:0.7]"	 --negative_prompt "Broccoli, (Tomato:1.5), Potato, (Dark_Green:0.9), [ Web browsers, Graphic design software], (Word processors), Bell Pepper"	 --steps "1"	 --cfg "2"	 --sampler "3"	 --width "4"	 --height "5"	 --seed "67"	 --subseed "7"	 --subseed_strength "8"	
+
