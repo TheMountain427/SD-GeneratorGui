@@ -2,9 +2,9 @@
 # Init PowerShell Gui
 Add-Type -AssemblyName System.Windows.Forms
 
-$inputDirectory = "Z:\MyDocumentation\Stable Diffusion\Prompt Collections"
-$outputDirectory = "Z:\MyDocumentation\Stable Diffusion\z.PromptOutput.txt"
-$workingDirectory = "C:\Users\sbker\OneDrive\Desktop\Generator Gui"
+$inputDirectory = "$PSScriptRoot\Prompt Collections"
+$outputDirectory = "$PSScriptRoot\z.PromptOutput.txt"
+$workingDirectory = "$PSScriptRoot"
 $pathToVariableList =  Join-Path -Path $workingDirectory -ChildPath "VariableListSettings.ps1"
 $pathToVariableCount = Join-Path -Path $workingDirectory -ChildPath "VariableCountSettings.ps1"
 $pathToVariableAcceptsAdj = Join-Path -Path $workingDirectory -ChildPath "VariableAcceptsAdj.ps1"

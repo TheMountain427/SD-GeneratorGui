@@ -1,0 +1,28 @@
+
+
+{ Fruit_Pos: positive
+Apple, Banana, 
+
+[(Orange:.3): (Mango:.4):0.6], 
+<Pineapple:_33>,   Strawberry, 
+Grape,	 (Watermelon, 		Kiwi),
+Peach,
+
+
+}
+{Vegetables_Neg: negative
+		<(Carrot)>, 
+Broccoli, (Tomato:1.5), Potato, 
+(Spinach, Cucumber), 
+
+
+	Bell Pepper,
+(Onion:1.2), 
+Lettuce, [Cauliflower:Corn:.3],
+
+
+
+
+
+
+}

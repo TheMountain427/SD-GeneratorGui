@@ -1,0 +1,22 @@
+{Bright_Colors_Pos: postive
+Yellow, 
+Orange, 
+(Cyan23), 
+Magenta, 
+Lime, 
+Pink, 
+<Aqua>, 
+[Lavender:Coral:0.7], 
+Turquoise,
+}
+
+{Dark_Colors_Neg: negative
+Black,[ Slate Gray:Charcoal99:.2], 
+Navy, 
+<Maroon:2.2>, 
+Midnight Blue, 
+(Dark_Green:0.9), 
+Plum,  
+Burgundy, 
+Indigo,
+}

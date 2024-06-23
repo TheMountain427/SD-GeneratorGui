@@ -1,0 +1,10 @@
+
+{Trees_Pos: postive
+<Oak:.1>, Pine, Maple, 
+Birch, <Cherry>, Cedar, 
+
+
+	Elm, Poplar, 
+Walnut, 
+[Fir],
+}

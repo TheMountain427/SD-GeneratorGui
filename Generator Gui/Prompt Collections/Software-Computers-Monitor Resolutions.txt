@@ -1,0 +1,31 @@
+{Software_Neg: negative
+(Word processors), 
+Spreadsheets, Presentation software, 
+Email clients,
+[ Web browsers, Graphic design software], 
+ Video editing software, Antivirus programs   ,   
+ Programming languages, 
+ Database management systems,
+}
+
+
+{Computer_Models_pos: positive
+MacBook Pro, Dell XPS, HP Spectre, 
+(Lenovo ThinkPad,    Microsoft Surface:1.2), 
+<Asus ZenBook>, Acer Swift, 
+Razer Blade, 
+[MSI GS series], 
+Gigabyte Aero,
+}
+
+{Monitor_Resolutions_Pos: positive
+1920x1080 (Full HD), 
+<2560x1440 (Quad HD)>, 
+3840x2160 (4K UHD), 
+(5120x2880 (5K):0.1), 
+7680x4320 (8K)   , 
+3440x1440 (Ultrawide QHD), 5120x2160 (Ultrawide 5K)   ,    
+3840x1600 (Ultrawide 4K), 2560x1080 (Ultrawide Full HD), 
+3840x1200 (Super Ultrawide),
+}
+

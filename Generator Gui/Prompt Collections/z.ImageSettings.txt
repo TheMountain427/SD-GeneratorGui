@@ -1,0 +1,172 @@
+{width: width
+1024,
+1564,
+1254,
+1182,
+915,
+}
+
+{height: height
+1024,
+670,
+836,
+886,
+1144,
+}
+
+{steps: steps
+15,
+20,
+25,
+30,
+35,
+40,
+45,
+50
+}
+
+{cfg_scale: cfg_scale
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+}
+
+{batch_size:
+1,
+2,
+3,
+4,
+5,
+6,
+7,
+8,
+}
+
+{sd_model: sd_model
+sd_model1,
+sd_model2,
+}
+
+{sampler_name: sampler_name
+sampler1,
+sampler2,
+sampler3,
+}
+
+{sampler_index: sampler_index
+0,
+1,
+2,
+}
+
+
+{seed: seed
+-1,
+43712378,
+247278,
+1544341,
+57784,
+77412334,
+}
+
+{subseed: subseed
+-1,
+897461,
+746184,
+4864123,
+5613,
+1846321,
+}
+
+{subseed_strength: subseed_strength
+0,
+0.1,
+0.2,
+0.3,
+0.4,
+0.5,
+0.6,
+0.7,
+0.8,
+0.9,
+1.0,
+0.15,
+0.25,
+0.35,
+0.45,
+0.55,
+0.65,
+0.75,
+0.85,
+0.95,
+}
+
+{outpath_samples: outpath_samples
+sample1,
+sample2,
+}
+
+{outpath_grids: outpath_grids
+grid1,
+grid2,
+}
+
+{prompt_for_display: prompt_for_display
+prompt1,
+prompt2,
+}
+
+{styles: styles
+style1,
+style2,
+}
+
+{seed_resize_from_w: seed_resize_from_w
+-1,
+1024,
+1564,
+1254,
+1182,
+915,
+}
+
+{seed_resize_from_h: seed_resize_from_h
+-1,
+1024,
+670,
+836,
+886,
+1144,
+}
+
+
+
+{n_iter: n_iter
+1
+}
+
+{restore_faces: restore_faces
+true,
+false,
+}
+
+{tiling: tiling
+true,
+false,
+}
+
+{do_not_save_samples: do_not_save_samples
+true,
+false,
+}
+
+{do_not_save_grid: do_not_save_grid
+true,
+false,
+}
+
